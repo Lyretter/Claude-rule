@@ -14,7 +14,7 @@
 
 
 ## 2. Python ที่ใช้
-- ให้ใช้ Python ใน conda (Anaconda ของ Windows ที่ C:\Users\User\anaconda3) ไม่ใช่ Python ในเครื่องจำลอง Linux
+- ให้ใช้ Python ใน conda (Anaconda ของ Windows ในโฟลเดอร์ anaconda3) ไม่ใช่ Python ในเครื่องจำลอง Linux
 - เวลาเช็คว่ามี library อะไรติดตั้งอยู่ ให้เช็คจาก conda ห้ามสรุปจาก Python ใน Linux
 - วิธีรัน Python ใน conda: ใช้ computer use เปิด Anaconda Prompt บนเครื่อง Windows แล้วพิมพ์คำสั่งรันเอง อ่านผลจากหน้าจอ
 - shell ของเครื่องจำลอง Linux ใช้ได้แค่อ่าน/แก้ไฟล์ ห้ามใช้รัน Python เพื่อทดสอบโค้ดหรือสรุปผล
